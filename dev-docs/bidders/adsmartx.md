@@ -12,6 +12,7 @@ gpp_supported: true
 user_sync: true
 schain_supported: true
 pbjs: true
+pbs: true
 ---
 
 ### Overview
